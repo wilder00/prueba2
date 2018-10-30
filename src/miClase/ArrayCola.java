@@ -19,7 +19,7 @@ public class ArrayCola<E> implements Cola{
     private E[] arc;
     private int frenteC;
     private int finalC;
-
+//soy un pesao
     public ArrayCola() {
         
         
